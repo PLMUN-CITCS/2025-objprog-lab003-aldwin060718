@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class InputOutputDemo {
@@ -16,3 +17,6 @@ public class InputOutputDemo {
 	input.close();
     }
 }
+=======
+
+>>>>>>> 3cff909278d048ed0f0efdd9ac3272f4e85f5071
